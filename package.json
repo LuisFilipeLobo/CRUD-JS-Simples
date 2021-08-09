@@ -1,0 +1,19 @@
+{
+	"name": "projeto-crud-simples",
+	"version": "1.0.0",
+	"description": "CRUD-Simples",
+	"main": "./src/server.js",
+	"scripts": {
+		"start": "nodemon",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "LuisFilipeLobo",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.17.1"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.12"
+	}
+}
